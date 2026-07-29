@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "mesopelagic-airgun-response"
+version: "[VERSION]"
+date-released: "[YYYY-MM-DD]"
+doi: "[SOFTWARE DOI]"
+url: "https://github.com/[USERNAME]/mesopelagic-airgun-response"
+authors:
+  - family-names: "Wardlaw"
+    given-names: "Camille"
+preferred-citation:
+  type: article
+  title: "Seismic Airgun Signals Elicit Dive Response in Mesopelagic Organisms"
+  journal: "Geophysical Research Letters"
+  year: [YEAR]
+  doi: "[PAPER DOI]"
+  authors:
+    - family-names: "Wardlaw"
+      given-names: "Camille"
+    - family-names: "Bonnel"
+      given-names: "Julien"
+    - family-names: "Zhuang"
+      given-names: "Zhaozhong"
+    - family-names: "Zhang"
+      given-names: "Weifeng (Gordon)"
+    - family-names: "Lavery"
+      given-names: "Andone"
