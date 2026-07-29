@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "mesopelagic-airgun-response"
-version: "[VERSION]"
-date-released: "[YYYY-MM-DD]"
-doi: "[SOFTWARE DOI]"
-url: "https://github.com/[USERNAME]/mesopelagic-airgun-response"
+version: "v1.0.0"
+date-released: "2026-07-29"
+doi: "10.5281/zenodo.21688910"
+url: "https://github.com/camwardlaw/mesopelagic-airgun-response"
 authors:
   - family-names: "Wardlaw"
     given-names: "Camille"
