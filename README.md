@@ -17,7 +17,7 @@ MATLAB R2019b or later (for `tiledlayout`/`nexttile`), plus:
 
 ## Data
 
-Input data is not tracked in this repository (several files exceed GitHub's size limits) and is instead archived separately on Zenodo: https://doi.org/10.5281/zenodo.21684609.
+Input data is not tracked in this repository (several files exceed GitHub's size limits) and is instead archived separately on Zenodo: https://doi.org/10.5281/zenodo.21684608.
 
 Download the archive and place it as a `data/` folder alongside these scripts, preserving the subfolder structure (`data/auv/`, `data/ship/`, `data/airgun/`, plus the two bathymetry `.nc` files at the top level of `data/`).
 
