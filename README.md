@@ -4,7 +4,7 @@ Code for reproducing statistical analysis and figures in a study of mesopelagic 
 
 ## Contents
 
-- `fig1.m`–`fig5.m` — `fig1.m`–`fig3.m` each produce one manuscript figure; `fig4.m` and `fig5.m` together produce the combined manuscript Figure 4 (`fig4.m`: panels a–g, top; `fig5.m`: panels h–j, bottom). `fig4.m`/`fig5.m` also print the statistical test results reported in the text.
+- `fig1.m`–`fig5.m` — `fig1.m`–`fig3.m` each produce one manuscript figure; `fig4.m` and `fig5.m` together produce the combined manuscript Figure 4 (`fig4.m`: panels a–g, top; `fig5.m`: panels h–i, bottom). `fig4.m`/`fig5.m` also print the statistical test results reported in the text.
 - `utils/` — small helper functions shared across scripts (axis styling, font handling, ship-track distance calculation).
 - `data/` — input data (see below; not included in this repository).
 
